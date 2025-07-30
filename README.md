@@ -16,7 +16,7 @@ It demonstrates how simple natural language inputs can be transformed into meani
 ## Project Structure
 Recommendations-pal-ML-Project/
 
-├── personalpal.ipynb # Main notebook
+├── Recommendation-pal.ipynb # Main notebook
 
 ├── Data/ # Folder for datasets (excluded from GitHub)
 
