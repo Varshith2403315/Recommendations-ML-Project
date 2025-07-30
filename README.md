@@ -22,8 +22,6 @@ Recommendations-pal-ML-Project/
 
 ├── README.md
 
-├── .gitignore
-
 └── requirements.txt
 
 ## External Datasets
