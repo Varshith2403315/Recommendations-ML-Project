@@ -39,3 +39,7 @@ Download: [Google Drive Folder](https://drive.google.com/drive/folders/136fX_Jzk
 2. Download the datasets and move them into a folder called Data/ in the project root.
 3. pip install -r requirements.txt
 4. jupyter notebook personalpal.ipynb
+
+## Author
+Siva sai varshith
+IIT Goa
